@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/Amy-Genshin/AMY_UPDATE/releases"><img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=Telegram"></a>
+ <a href="https://github.com/Amy-Genshin/AMY_UPDATE/releases"><img src="https://img.shields.io/badge/Download-200k-brightgreen?style=for-the-badge"></a>
  <a href="https://discord.gg/bae9MXYhBF"><img src="https://img.shields.io/discord/1207191906958975006?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
  <a href="https://t.me/MengYanShare"><img src="https://img.shields.io/badge/Telegram-38.457-brightgreen?style=for-the-badge&logo=Telegram"></a>
 </p>
