@@ -12,14 +12,14 @@
 
 ### Note
 
-- If you have not rooted your device, you should use virtual root
+- Non-rooted users should use Virtual space as alternative
  
 ### Usage
 
-1. Download last release.
-2. Amy can then be verified using `Telegram` or `discord`.
-3. Click Start and click on the game image in the upper right corner.
-
+1. Download the latest release.
+2. Amy can be verified using `Telegram` or `discord`.
+3. Click `Start` and then click on the game image in the upper right corner.
+   
 <h1 align="center">Features</h1>
 
 #### Player
